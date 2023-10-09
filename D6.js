@@ -19,11 +19,11 @@ console.log(evenNumbers)
 /* ESERCIZIO 4 (forEach)
   Scrivi una funzione per sommare i numeri contenuti in un array
 */
-const numbers = [2, 5, 7]
+// const numbers = [2, 5, 7]
 
-for ( let i = 0 ; i < numbers.length ; i++) {
+// for ( let i = 0 ; i < numbers.length ; i++) {
 
-}
+// }
 
 
 /* ESERCIZIO 5 (reduce)
